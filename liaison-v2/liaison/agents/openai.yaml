@@ -1,0 +1,5 @@
+interface:
+  display_name: "通讯官"
+  short_description: "为长时间自动化工作建立人与 agent 之间的通讯缓冲层"
+policy:
+  allow_implicit_invocation: false

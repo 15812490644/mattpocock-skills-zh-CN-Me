@@ -1,0 +1,3 @@
+interface:
+  display_name: "转为 Questionnaire"
+  short_description: "把问题预先整理成供他人回答的文档"

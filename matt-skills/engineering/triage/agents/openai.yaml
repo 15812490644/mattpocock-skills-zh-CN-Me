@@ -1,0 +1,3 @@
+interface:
+  display_name: "分诊"
+  short_description: "按 triage roles 推进 issues"
